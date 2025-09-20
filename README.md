@@ -1,1 +1,1 @@
-## Please Refer "Vendor Performance Report.pdf" in this reppository for better visualization of this project 
+## Please Refer "Vendor Performance Report.pdf" in this repository for better visualization of this project 
